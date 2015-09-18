@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NearbyConnections</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="connection_type_host">Host</string>
+    <string name="connection_type_client">Client</string>
+
+    <string name="service_id">nearby_connections_id</string>
+</resources>
